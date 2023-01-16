@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm B LINGESH KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS, Next JS, Node JS, Go lang.**
+-   I’m currently learning  **React JS, Next JS, Node JS, Go lang.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lingesh360](https://github.com/lingesh360)
+-   All of my projects are available at  [https://github.com/lingesh360](https://github.com/lingesh360)
 
-- 📫 How to reach me **blkumar360@gmail.com**
+-   How to reach me  **blkumar360@gmail.com**
 
 
 
