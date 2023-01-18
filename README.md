@@ -5,7 +5,7 @@
 
 -   All of my projects are available at  [https://github.com/lingesh360](https://github.com/lingesh360)
 
--   How to reach me  **blkumar360@gmail.com**
+-   Reach me  **blkumar360@gmail.com**
 
 
 
